@@ -1,9 +1,6 @@
 {
-    "head": {
-      "other": "hoofd"
-    },
-    "gear": {
-        "one": "gear",
-        "other": "gears"
-    }
+    "head.other": "hoofd",
+    "gear.one": "uitrusting",
+    "gear.other": "versnellingen",
+    "quarantine.corona": "korona"
 }
