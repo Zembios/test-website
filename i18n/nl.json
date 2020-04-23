@@ -1,0 +1,9 @@
+{
+    "head": {
+      "other": "hoofd"
+    },
+    "gear": {
+        "one": "gear",
+        "other": "gears"
+    }
+}
