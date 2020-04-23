@@ -1,9 +1,6 @@
 {
-    "head": {
-        "other": "head"
-    },
-    "gear": {
-        "one": "gear",
-        "other": "gears"
-    }
+    "head.other": "head",
+    "gear.one": "gear",
+    "gear.other": "gears",
+    "quarantine.corona": "corona"
 }
